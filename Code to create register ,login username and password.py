@@ -1,9 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
+
 
 # Code to create register /login /forgetpassword 
-
-# In[ ]:
 
 
 import re
@@ -108,7 +105,6 @@ def home(option = None):
 home()
 
 
-# In[ ]:
 
 
 
